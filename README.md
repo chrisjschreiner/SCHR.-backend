@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-<img src="public/logo_black.png" alt="Logo" width="80" height="90">
+<img src="logo_black.png" alt="Logo" width="80" height="90">
 
 <h3 align="center">SCHR.</h3>
 
